@@ -1,6 +1,6 @@
-Proyecto Final E-commerce creado para el curso de ReactJS de CoderHouse. En este caso es un e-commerce de tecnología.
+<h1>Proyecto Final E-commerce creado para el curso de ReactJS de CoderHouse. En este caso es un e-commerce de tecnología.</h1>
 
-Los componentes principales para el desarrollo de la funcionalidad son: 
+## Los componentes principales para el desarrollo de la funcionalidad son: 
 
     1. ItemListContainer
     2. ItemList
@@ -13,9 +13,10 @@ Los componentes principales para el desarrollo de la funcionalidad son:
     9. NavBar
     10. ItemCount
 
-Importante: instalar el software necesario, NodeJS, react-router-dom, firebase, moonloader, sweetalert2, free-solid-svg-icons, react-font-awesome, react-router-boostrap. 
+## instalación para el software necesario:
+ NodeJS, react-router-dom, firebase, moonloader, sweetalert2, free-solid-svg-icons, react-font-awesome, react-router-boostrap. 
 
-Los componentes de este proyecto son:
+## Los componentes de este proyecto son:
 
     1. NavBar
     2. Footer
@@ -31,9 +32,6 @@ Los componentes de este proyecto son:
     12. CartView
     13. CheckOut
 
-* [HTML] (https://developer.mozilla.org/es/docs/Web/HTML)
-* [CSS] (https://developer.mozilla.org/es/docs/Web/CSS)
-* [Bootstrap](https://getbootstrap.com)
-* [JavaScript] (https://developer.mozilla.org/es/docs/Web/JavaScript)
-* [ReactJS] (https://es.reactjs.org/)
-* [Firebase] (https://firebase.google.com/?hl=es)
+## Link del repositorio:
+
+https://github.com/joaquin848/ProyectoFinal-Joaquin-Maciel.git
