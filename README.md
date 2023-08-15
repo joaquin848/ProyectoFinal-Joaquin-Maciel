@@ -1,4 +1,4 @@
-<h1>Proyecto Final E-commerce creado para el curso de ReactJS de CoderHouse. En este caso es un e-commerce de tecnología.</h1>
+<h1>Proyecto Final ReactJS. En este caso es un e-commerce de tecnología.</h1>
 
 ## Los componentes principales para el desarrollo de la funcionalidad son: 
 
